@@ -44,7 +44,8 @@ plt.show()
 
 ```
 ## Output
-![output](uni.png)
+![output1](un1.png)
+![output2](un2.png)
 </br>
 </br>
 </br>
